@@ -198,6 +198,7 @@ To evaluate operational trends cleanly across varying calendar granularities wit
 #### Page 3: Resident Experience & Attrition Correlation
 * **Purpose:** Strategic analysis proving the ROI of on-site property management operations.
 * **Core Visuals:** Cross-filtered bar charts mapping satisfaction scores across critical tenant milestones.
-* **Data Narrative:** **The Smoking Gun.** Statistically proves that high survey sentiment directly triggers physical lease renewals, translating customer satisfaction into concrete resident retention.
+* **Data Narrative:** **The Smoking Gun.** Statistically proves that low survey sentiment directly triggers physical lease terminations, translating customer friction into concrete vacancy losses.
+  
+<img width="1891" height="1030" alt="image" src="https://github.com/user-attachments/assets/18007beb-869a-4ac7-b95a-9084d460f7e9" />
 
-<img width="1885" height="1043" alt="image" src="https://github.com/user-attachments/assets/11f6a60f-2183-421e-bb41-01b34c317931" />
