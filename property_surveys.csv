@@ -1,0 +1,708 @@
+Survey_ID,Resident_ID,Touchpoint,Score,Survey_Date
+1,1000,Move-in,3,2024-02-04
+2,1001,Move-in,4,2024-03-14
+3,1002,Renewal Notice Received,4,2024-08-27
+4,1002,Maintenance Request,4,2024-08-27
+5,1003,Move-in,4,2024-03-02
+6,1004,Maintenance Request,4,2025-03-14
+7,1004,Renewal Notice Received,1,2025-03-14
+8,1005,Renewal Notice Received,5,2024-12-21
+9,1006,Maintenance Request,5,2024-02-26
+10,1006,Move-in,5,2024-02-26
+11,1007,Maintenance Request,5,2024-03-19
+12,1007,Maintenance Request,5,2024-03-19
+13,1008,Move-in,5,2024-07-06
+14,1009,Maintenance Request,4,2024-08-26
+15,1010,Maintenance Request,5,2024-10-21
+16,1010,Maintenance Request,5,2024-10-21
+17,1011,Renewal Notice Received,4,2024-04-29
+18,1012,Renewal Notice Received,4,2024-09-30
+19,1013,Renewal Notice Received,5,2024-01-26
+20,1014,Maintenance Request,5,2024-03-08
+21,1014,Renewal Notice Received,5,2024-03-08
+22,1015,Renewal Notice Received,4,2024-04-21
+23,1015,Move-in,4,2024-04-21
+24,1016,Move-in,3,2024-08-24
+25,1017,Maintenance Request,4,2024-06-29
+26,1018,Renewal Notice Received,2,2024-11-11
+27,1018,Maintenance Request,5,2024-11-11
+28,1019,Maintenance Request,4,2025-11-20
+29,1020,Maintenance Request,4,2024-10-16
+30,1020,Move-in,4,2024-10-16
+31,1021,Maintenance Request,3,2024-04-22
+32,1021,Maintenance Request,4,2024-04-22
+33,1022,Move-in,5,2024-12-16
+34,1023,Move-in,4,2025-12-27
+35,1023,Renewal Notice Received,2,2025-12-27
+36,1024,Renewal Notice Received,5,2024-08-31
+37,1025,Maintenance Request,4,2024-08-11
+38,1026,Move-in,4,2024-01-05
+39,1026,Move-in,5,2024-01-05
+40,1027,Renewal Notice Received,4,2025-01-22
+41,1028,Move-in,5,2024-03-03
+42,1029,Maintenance Request,5,2024-01-27
+43,1029,Renewal Notice Received,4,2024-01-27
+44,1030,Renewal Notice Received,4,2024-04-28
+45,1030,Move-in,5,2024-04-28
+46,1031,Renewal Notice Received,5,2024-04-23
+47,1032,Maintenance Request,4,2024-11-16
+48,1032,Move-in,5,2024-11-16
+49,1033,Move-in,5,2024-12-22
+50,1033,Maintenance Request,5,2024-12-22
+51,1034,Maintenance Request,4,2024-06-27
+52,1035,Maintenance Request,3,2024-06-21
+53,1036,Maintenance Request,5,2024-11-17
+54,1037,Move-in,5,2024-02-08
+55,1037,Maintenance Request,4,2024-02-08
+56,1038,Maintenance Request,5,2024-03-10
+57,1038,Renewal Notice Received,2,2024-03-10
+58,1039,Move-in,4,2025-03-28
+59,1040,Move-in,4,2024-05-17
+60,1041,Maintenance Request,5,2024-10-23
+61,1041,Maintenance Request,4,2024-10-23
+62,1042,Renewal Notice Received,5,2024-11-24
+63,1043,Maintenance Request,5,2024-10-13
+64,1043,Maintenance Request,5,2024-10-13
+65,1044,Move-in,5,2024-03-19
+66,1045,Maintenance Request,3,2024-02-12
+67,1046,Renewal Notice Received,5,2024-04-14
+68,1046,Maintenance Request,5,2024-04-14
+69,1047,Maintenance Request,5,2024-12-19
+70,1048,Renewal Notice Received,4,2024-05-25
+71,1049,Maintenance Request,5,2024-11-05
+72,1050,Renewal Notice Received,5,2024-07-17
+73,1050,Maintenance Request,4,2024-07-17
+74,1051,Move-in,3,2024-02-12
+75,1052,Move-in,5,2024-10-16
+76,1052,Maintenance Request,4,2024-10-16
+77,1053,Renewal Notice Received,2,2025-10-24
+78,1053,Maintenance Request,4,2025-10-24
+79,1054,Maintenance Request,5,2024-02-08
+80,1055,Maintenance Request,5,2024-10-16
+81,1056,Renewal Notice Received,5,2024-01-06
+82,1056,Renewal Notice Received,5,2024-01-06
+83,1057,Renewal Notice Received,5,2024-06-08
+84,1057,Move-in,5,2024-06-08
+85,1058,Renewal Notice Received,5,2024-07-03
+86,1058,Maintenance Request,4,2024-07-03
+87,1059,Move-in,5,2024-02-17
+88,1059,Move-in,4,2024-02-17
+89,1060,Move-in,5,2024-04-05
+90,1060,Maintenance Request,4,2024-04-05
+91,1061,Maintenance Request,4,2024-10-26
+92,1062,Renewal Notice Received,4,2024-11-26
+93,1062,Renewal Notice Received,5,2024-11-26
+94,1063,Move-in,5,2024-10-30
+95,1064,Move-in,4,2024-05-21
+96,1064,Move-in,5,2024-05-21
+97,1065,Move-in,5,2024-04-21
+98,1065,Renewal Notice Received,5,2024-04-21
+99,1066,Maintenance Request,5,2024-12-22
+100,1066,Renewal Notice Received,5,2024-12-22
+101,1067,Renewal Notice Received,3,2024-11-24
+102,1068,Renewal Notice Received,2,2024-02-21
+103,1069,Maintenance Request,3,2025-03-02
+104,1069,Renewal Notice Received,2,2025-03-02
+105,1070,Renewal Notice Received,2,2024-09-14
+106,1070,Maintenance Request,5,2024-09-14
+107,1071,Move-in,5,2025-10-02
+108,1072,Move-in,5,2024-07-01
+109,1072,Maintenance Request,4,2024-07-01
+110,1073,Renewal Notice Received,4,2024-02-25
+111,1073,Renewal Notice Received,4,2024-02-25
+112,1074,Move-in,4,2024-11-05
+113,1075,Move-in,5,2024-06-03
+114,1076,Move-in,5,2024-03-31
+115,1077,Renewal Notice Received,5,2024-12-13
+116,1078,Renewal Notice Received,3,2024-09-08
+117,1079,Renewal Notice Received,1,2024-06-29
+118,1080,Move-in,4,2025-07-04
+119,1080,Move-in,4,2025-07-04
+120,1081,Renewal Notice Received,5,2024-03-04
+121,1081,Maintenance Request,5,2024-03-04
+122,1082,Move-in,4,2024-02-19
+123,1083,Move-in,5,2025-02-23
+124,1083,Move-in,5,2025-02-23
+125,1084,Move-in,5,2024-04-28
+126,1085,Move-in,3,2024-02-19
+127,1085,Renewal Notice Received,3,2024-02-19
+128,1086,Move-in,3,2024-08-03
+129,1087,Move-in,5,2024-02-02
+130,1087,Move-in,4,2024-02-02
+131,1088,Maintenance Request,5,2024-10-13
+132,1088,Move-in,4,2024-10-13
+133,1089,Move-in,5,2024-03-19
+134,1090,Maintenance Request,5,2024-04-23
+135,1090,Move-in,5,2024-04-23
+136,1091,Renewal Notice Received,2,2024-05-12
+137,1092,Maintenance Request,5,2025-05-23
+138,1092,Maintenance Request,3,2025-05-23
+139,1093,Renewal Notice Received,1,2024-10-15
+140,1093,Move-in,5,2024-10-15
+141,1094,Move-in,4,2025-10-21
+142,1094,Maintenance Request,4,2025-10-21
+143,1095,Move-in,5,2024-03-28
+144,1095,Maintenance Request,4,2024-03-28
+145,1096,Renewal Notice Received,4,2025-04-03
+146,1097,Maintenance Request,5,2024-12-15
+147,1098,Move-in,5,2024-09-12
+148,1099,Renewal Notice Received,5,2024-08-17
+149,1099,Move-in,5,2024-08-17
+150,1100,Move-in,3,2024-09-21
+151,1100,Move-in,5,2024-09-21
+152,1101,Move-in,5,2024-10-15
+153,1102,Renewal Notice Received,5,2024-06-14
+154,1102,Maintenance Request,4,2024-06-14
+155,1103,Renewal Notice Received,4,2024-01-08
+156,1104,Move-in,5,2024-05-27
+157,1105,Renewal Notice Received,2,2025-06-13
+158,1105,Maintenance Request,3,2025-06-13
+159,1106,Maintenance Request,5,2024-03-23
+160,1107,Renewal Notice Received,5,2024-01-12
+161,1107,Renewal Notice Received,4,2024-01-12
+162,1108,Maintenance Request,5,2024-04-29
+163,1108,Move-in,4,2024-04-29
+164,1109,Move-in,4,2024-09-13
+165,1110,Move-in,5,2024-12-21
+166,1110,Maintenance Request,5,2024-12-21
+167,1111,Move-in,4,2024-03-22
+168,1112,Renewal Notice Received,5,2024-08-03
+169,1112,Renewal Notice Received,4,2024-08-03
+170,1113,Move-in,4,2024-07-28
+171,1113,Maintenance Request,5,2024-07-28
+172,1114,Renewal Notice Received,3,2024-10-08
+173,1115,Renewal Notice Received,3,2024-01-05
+174,1115,Maintenance Request,5,2024-01-05
+175,1116,Maintenance Request,5,2025-01-10
+176,1116,Maintenance Request,5,2025-01-10
+177,1117,Renewal Notice Received,2,2024-10-20
+178,1117,Maintenance Request,4,2024-10-20
+179,1118,Renewal Notice Received,2,2025-10-29
+180,1119,Move-in,4,2024-12-22
+181,1119,Maintenance Request,5,2024-12-22
+182,1120,Move-in,5,2024-06-02
+183,1120,Move-in,4,2024-06-02
+184,1121,Move-in,5,2024-12-08
+185,1122,Renewal Notice Received,2,2025-12-18
+186,1123,Move-in,5,2024-06-17
+187,1123,Maintenance Request,5,2024-06-17
+188,1124,Maintenance Request,5,2024-06-22
+189,1125,Renewal Notice Received,5,2024-05-02
+190,1125,Maintenance Request,5,2024-05-02
+191,1126,Move-in,4,2024-07-12
+192,1126,Maintenance Request,4,2024-07-12
+193,1127,Renewal Notice Received,5,2024-01-30
+194,1128,Move-in,5,2024-06-13
+195,1128,Move-in,5,2024-06-13
+196,1129,Renewal Notice Received,3,2024-11-06
+197,1129,Maintenance Request,5,2024-11-06
+198,1130,Renewal Notice Received,4,2024-03-10
+199,1131,Move-in,5,2024-05-28
+200,1132,Renewal Notice Received,5,2024-07-20
+201,1132,Renewal Notice Received,4,2024-07-20
+202,1133,Move-in,5,2024-10-23
+203,1133,Renewal Notice Received,5,2024-10-23
+204,1134,Move-in,4,2024-04-14
+205,1134,Move-in,4,2024-04-14
+206,1135,Move-in,4,2024-08-17
+207,1136,Maintenance Request,4,2025-08-27
+208,1136,Renewal Notice Received,4,2025-08-27
+209,1137,Renewal Notice Received,4,2024-01-13
+210,1138,Renewal Notice Received,3,2024-11-01
+211,1138,Move-in,5,2024-11-01
+212,1139,Renewal Notice Received,2,2025-11-12
+213,1140,Renewal Notice Received,2,2024-10-30
+214,1141,Maintenance Request,4,2025-11-06
+215,1141,Move-in,5,2025-11-06
+216,1142,Maintenance Request,5,2024-05-29
+217,1143,Maintenance Request,3,2024-07-17
+218,1144,Renewal Notice Received,4,2025-07-23
+219,1145,Move-in,4,2024-09-25
+220,1146,Maintenance Request,4,2025-10-12
+221,1146,Move-in,4,2025-10-12
+222,1147,Renewal Notice Received,4,2024-02-17
+223,1148,Renewal Notice Received,2,2024-10-09
+224,1148,Renewal Notice Received,4,2024-10-09
+225,1149,Renewal Notice Received,2,2025-10-27
+226,1149,Maintenance Request,5,2025-10-27
+227,1150,Maintenance Request,3,2024-04-27
+228,1150,Renewal Notice Received,4,2024-04-27
+229,1151,Renewal Notice Received,5,2024-11-11
+230,1151,Move-in,5,2024-11-11
+231,1152,Move-in,5,2024-04-13
+232,1152,Move-in,4,2024-04-13
+233,1153,Renewal Notice Received,5,2024-04-18
+234,1154,Move-in,5,2024-06-20
+235,1154,Renewal Notice Received,4,2024-06-20
+236,1155,Maintenance Request,3,2024-02-09
+237,1156,Renewal Notice Received,5,2024-07-29
+238,1157,Move-in,5,2024-11-07
+239,1157,Move-in,5,2024-11-07
+240,1158,Maintenance Request,5,2025-11-22
+241,1159,Maintenance Request,5,2024-09-26
+242,1160,Move-in,5,2025-10-03
+243,1161,Maintenance Request,5,2024-02-09
+244,1161,Renewal Notice Received,5,2024-02-09
+245,1162,Renewal Notice Received,5,2024-11-14
+246,1162,Renewal Notice Received,5,2024-11-14
+247,1163,Renewal Notice Received,2,2024-08-24
+248,1164,Maintenance Request,4,2025-09-07
+249,1165,Move-in,5,2024-12-25
+250,1166,Move-in,5,2024-01-04
+251,1166,Maintenance Request,4,2024-01-04
+252,1167,Move-in,4,2024-11-20
+253,1168,Move-in,3,2024-07-12
+254,1168,Move-in,5,2024-07-12
+255,1169,Renewal Notice Received,4,2024-11-01
+256,1170,Renewal Notice Received,5,2024-10-20
+257,1171,Move-in,3,2024-10-22
+258,1171,Renewal Notice Received,4,2024-10-22
+259,1172,Move-in,4,2025-11-06
+260,1172,Move-in,4,2025-11-06
+261,1173,Maintenance Request,4,2024-11-29
+262,1173,Maintenance Request,5,2024-11-29
+263,1174,Renewal Notice Received,2,2025-12-10
+264,1174,Move-in,5,2025-12-10
+265,1175,Move-in,5,2024-09-17
+266,1176,Renewal Notice Received,2,2025-10-06
+267,1177,Maintenance Request,5,2024-08-31
+268,1177,Maintenance Request,5,2024-08-31
+269,1178,Renewal Notice Received,5,2024-11-09
+270,1179,Maintenance Request,3,2024-09-19
+271,1179,Maintenance Request,4,2024-09-19
+272,1180,Maintenance Request,4,2024-06-26
+273,1181,Renewal Notice Received,5,2024-03-02
+274,1182,Move-in,4,2024-03-03
+275,1182,Renewal Notice Received,3,2024-03-03
+276,1183,Maintenance Request,3,2025-03-10
+277,1183,Move-in,4,2025-03-10
+278,1184,Maintenance Request,4,2024-08-15
+279,1185,Renewal Notice Received,4,2024-03-30
+280,1185,Move-in,5,2024-03-30
+281,1186,Move-in,4,2024-09-24
+282,1186,Renewal Notice Received,5,2024-09-24
+283,1187,Move-in,5,2024-01-30
+284,1188,Maintenance Request,4,2025-02-14
+285,1189,Move-in,4,2024-01-10
+286,1190,Maintenance Request,4,2025-01-24
+287,1190,Renewal Notice Received,2,2025-01-24
+288,1191,Maintenance Request,4,2024-08-14
+289,1192,Move-in,3,2024-09-08
+290,1193,Renewal Notice Received,4,2024-02-07
+291,1194,Maintenance Request,4,2024-03-22
+292,1194,Maintenance Request,5,2024-03-22
+293,1195,Move-in,5,2025-04-09
+294,1196,Maintenance Request,4,2024-04-25
+295,1197,Maintenance Request,5,2024-02-10
+296,1198,Renewal Notice Received,5,2024-08-04
+297,1199,Maintenance Request,5,2024-02-29
+298,1199,Maintenance Request,5,2024-02-29
+299,1200,Renewal Notice Received,4,2024-02-15
+300,1200,Move-in,4,2024-02-15
+301,1201,Move-in,4,2024-06-04
+302,1202,Maintenance Request,5,2024-02-15
+303,1202,Renewal Notice Received,3,2024-02-15
+304,1203,Renewal Notice Received,5,2024-06-09
+305,1203,Move-in,5,2024-06-09
+306,1204,Maintenance Request,5,2024-03-23
+307,1204,Move-in,5,2024-03-23
+308,1205,Maintenance Request,4,2024-01-13
+309,1206,Maintenance Request,4,2024-06-04
+310,1207,Move-in,4,2025-06-09
+311,1207,Maintenance Request,4,2025-06-09
+312,1208,Move-in,5,2024-08-11
+313,1209,Move-in,5,2024-06-12
+314,1209,Renewal Notice Received,4,2024-06-12
+315,1210,Renewal Notice Received,5,2024-03-15
+316,1211,Move-in,4,2024-03-01
+317,1212,Maintenance Request,4,2024-07-15
+318,1212,Renewal Notice Received,4,2024-07-15
+319,1213,Maintenance Request,4,2024-08-07
+320,1214,Move-in,5,2024-07-12
+321,1215,Maintenance Request,4,2024-11-02
+322,1216,Maintenance Request,5,2025-11-21
+323,1216,Renewal Notice Received,2,2025-11-21
+324,1217,Renewal Notice Received,5,2024-07-23
+325,1218,Renewal Notice Received,5,2024-01-08
+326,1219,Renewal Notice Received,4,2024-03-20
+327,1219,Move-in,5,2024-03-20
+328,1220,Move-in,3,2024-01-27
+329,1220,Move-in,5,2024-01-27
+330,1221,Move-in,5,2024-04-09
+331,1222,Renewal Notice Received,4,2024-10-12
+332,1223,Renewal Notice Received,4,2024-06-24
+333,1224,Renewal Notice Received,2,2024-07-14
+334,1224,Move-in,5,2024-07-14
+335,1225,Renewal Notice Received,2,2025-07-30
+336,1225,Renewal Notice Received,1,2025-07-30
+337,1226,Renewal Notice Received,3,2024-04-02
+338,1227,Renewal Notice Received,2,2025-04-11
+339,1228,Maintenance Request,5,2024-03-25
+340,1229,Move-in,4,2024-09-14
+341,1229,Move-in,5,2024-09-14
+342,1230,Renewal Notice Received,4,2024-06-12
+343,1231,Move-in,4,2024-10-01
+344,1232,Move-in,5,2024-03-01
+345,1232,Move-in,5,2024-03-01
+346,1233,Move-in,4,2025-03-10
+347,1233,Move-in,4,2025-03-10
+348,1234,Renewal Notice Received,4,2024-03-20
+349,1235,Move-in,3,2024-12-15
+350,1235,Move-in,4,2024-12-15
+351,1236,Move-in,4,2024-02-16
+352,1237,Maintenance Request,4,2024-09-30
+353,1237,Renewal Notice Received,4,2024-09-30
+354,1238,Move-in,5,2024-06-15
+355,1238,Maintenance Request,5,2024-06-15
+356,1239,Move-in,3,2024-04-27
+357,1240,Move-in,4,2024-07-24
+358,1240,Move-in,5,2024-07-24
+359,1241,Move-in,3,2024-11-16
+360,1241,Maintenance Request,5,2024-11-16
+361,1242,Renewal Notice Received,1,2025-11-26
+362,1243,Move-in,5,2024-01-12
+363,1243,Move-in,5,2024-01-12
+364,1244,Maintenance Request,3,2025-01-21
+365,1245,Renewal Notice Received,5,2024-09-24
+366,1245,Maintenance Request,4,2024-09-24
+367,1246,Maintenance Request,4,2024-03-17
+368,1246,Maintenance Request,5,2024-03-17
+369,1247,Move-in,4,2025-04-05
+370,1247,Maintenance Request,5,2025-04-05
+371,1248,Maintenance Request,5,2024-11-06
+372,1249,Maintenance Request,5,2024-08-30
+373,1249,Renewal Notice Received,5,2024-08-30
+374,1250,Move-in,4,2024-08-21
+375,1250,Move-in,5,2024-08-21
+376,1251,Renewal Notice Received,5,2024-06-03
+377,1251,Maintenance Request,4,2024-06-03
+378,1252,Renewal Notice Received,3,2024-03-31
+379,1253,Renewal Notice Received,5,2024-04-16
+380,1254,Move-in,5,2024-11-13
+381,1254,Move-in,4,2024-11-13
+382,1255,Maintenance Request,5,2024-03-14
+383,1255,Renewal Notice Received,5,2024-03-14
+384,1256,Maintenance Request,5,2024-07-23
+385,1257,Move-in,5,2024-03-25
+386,1257,Maintenance Request,3,2024-03-25
+387,1258,Renewal Notice Received,5,2024-03-25
+388,1259,Maintenance Request,4,2024-01-04
+389,1259,Move-in,4,2024-01-04
+390,1260,Renewal Notice Received,4,2024-01-13
+391,1261,Move-in,5,2024-08-31
+392,1261,Renewal Notice Received,2,2024-08-31
+393,1262,Move-in,4,2025-09-08
+394,1263,Move-in,5,2024-08-09
+395,1263,Renewal Notice Received,3,2024-08-09
+396,1264,Move-in,4,2024-10-27
+397,1265,Maintenance Request,5,2024-02-07
+398,1266,Move-in,3,2025-02-19
+399,1266,Maintenance Request,3,2025-02-19
+400,1267,Renewal Notice Received,5,2024-05-11
+401,1267,Maintenance Request,4,2024-05-11
+402,1268,Renewal Notice Received,5,2024-04-03
+403,1268,Maintenance Request,5,2024-04-03
+404,1269,Maintenance Request,4,2024-11-28
+405,1270,Move-in,4,2025-12-12
+406,1270,Maintenance Request,5,2025-12-12
+407,1271,Renewal Notice Received,4,2024-01-25
+408,1271,Move-in,5,2024-01-25
+409,1272,Maintenance Request,5,2024-01-21
+410,1273,Move-in,3,2024-04-06
+411,1273,Maintenance Request,5,2024-04-06
+412,1274,Maintenance Request,4,2024-08-16
+413,1274,Renewal Notice Received,3,2024-08-16
+414,1275,Renewal Notice Received,4,2025-08-26
+415,1275,Move-in,3,2025-08-26
+416,1276,Maintenance Request,5,2024-08-31
+417,1276,Maintenance Request,4,2024-08-31
+418,1277,Move-in,4,2025-09-16
+419,1277,Move-in,5,2025-09-16
+420,1278,Renewal Notice Received,4,2024-08-25
+421,1279,Renewal Notice Received,5,2024-12-21
+422,1280,Move-in,4,2024-03-28
+423,1280,Renewal Notice Received,5,2024-03-28
+424,1281,Renewal Notice Received,5,2024-10-20
+425,1282,Maintenance Request,5,2024-11-12
+426,1282,Move-in,3,2024-11-12
+427,1283,Maintenance Request,4,2024-03-25
+428,1283,Move-in,5,2024-03-25
+429,1284,Renewal Notice Received,3,2024-12-11
+430,1284,Move-in,5,2024-12-11
+431,1285,Maintenance Request,5,2025-12-17
+432,1286,Move-in,5,2024-08-17
+433,1287,Move-in,5,2024-06-13
+434,1287,Move-in,4,2024-06-13
+435,1288,Move-in,5,2025-07-02
+436,1289,Maintenance Request,4,2024-01-11
+437,1290,Renewal Notice Received,5,2024-04-03
+438,1290,Renewal Notice Received,5,2024-04-03
+439,1291,Move-in,4,2024-05-13
+440,1292,Move-in,5,2024-11-09
+441,1292,Maintenance Request,4,2024-11-09
+442,1293,Renewal Notice Received,5,2024-04-17
+443,1293,Renewal Notice Received,4,2024-04-17
+444,1294,Maintenance Request,4,2024-11-01
+445,1294,Move-in,4,2024-11-01
+446,1295,Renewal Notice Received,5,2024-07-26
+447,1296,Move-in,4,2024-11-30
+448,1296,Renewal Notice Received,3,2024-11-30
+449,1297,Maintenance Request,4,2024-10-09
+450,1298,Maintenance Request,4,2024-09-02
+451,1298,Renewal Notice Received,5,2024-09-02
+452,1299,Renewal Notice Received,5,2024-07-25
+453,1300,Maintenance Request,5,2024-08-04
+454,1300,Maintenance Request,5,2024-08-04
+455,1301,Maintenance Request,5,2024-11-02
+456,1301,Renewal Notice Received,2,2024-11-02
+457,1302,Move-in,3,2025-11-13
+458,1302,Maintenance Request,5,2025-11-13
+459,1303,Renewal Notice Received,5,2024-07-03
+460,1304,Maintenance Request,5,2024-10-21
+461,1305,Maintenance Request,4,2024-11-04
+462,1305,Move-in,5,2024-11-04
+463,1306,Move-in,4,2024-01-09
+464,1307,Maintenance Request,3,2025-01-13
+465,1308,Renewal Notice Received,5,2024-09-21
+466,1308,Renewal Notice Received,4,2024-09-21
+467,1309,Move-in,4,2024-03-27
+468,1310,Maintenance Request,4,2024-08-06
+469,1311,Renewal Notice Received,3,2024-05-25
+470,1311,Move-in,4,2024-05-25
+471,1312,Maintenance Request,4,2025-05-30
+472,1313,Maintenance Request,3,2024-11-24
+473,1314,Move-in,4,2025-11-29
+474,1315,Renewal Notice Received,5,2024-10-14
+475,1316,Move-in,3,2024-03-31
+476,1317,Maintenance Request,5,2024-03-04
+477,1318,Maintenance Request,5,2025-03-17
+478,1318,Maintenance Request,4,2025-03-17
+479,1319,Move-in,4,2024-06-25
+480,1319,Move-in,5,2024-06-25
+481,1320,Renewal Notice Received,5,2024-11-20
+482,1321,Move-in,4,2024-04-12
+483,1321,Renewal Notice Received,1,2024-04-12
+484,1322,Renewal Notice Received,1,2025-04-29
+485,1323,Renewal Notice Received,3,2024-10-06
+486,1324,Move-in,4,2024-11-06
+487,1325,Move-in,5,2024-03-17
+488,1326,Renewal Notice Received,4,2024-11-12
+489,1326,Maintenance Request,4,2024-11-12
+490,1327,Move-in,5,2024-10-18
+491,1328,Move-in,4,2024-04-20
+492,1329,Maintenance Request,5,2024-01-04
+493,1330,Renewal Notice Received,2,2025-01-09
+494,1330,Maintenance Request,3,2025-01-09
+495,1331,Maintenance Request,5,2024-04-27
+496,1332,Maintenance Request,3,2024-10-31
+497,1333,Maintenance Request,3,2024-02-13
+498,1334,Maintenance Request,5,2024-01-22
+499,1335,Move-in,5,2024-04-27
+500,1335,Move-in,4,2024-04-27
+501,1336,Maintenance Request,5,2024-02-21
+502,1337,Maintenance Request,5,2025-03-02
+503,1338,Move-in,5,2024-10-17
+504,1338,Move-in,4,2024-10-17
+505,1339,Renewal Notice Received,2,2024-02-22
+506,1340,Maintenance Request,4,2025-03-09
+507,1341,Renewal Notice Received,5,2024-05-16
+508,1342,Maintenance Request,4,2024-01-03
+509,1343,Renewal Notice Received,3,2024-12-16
+510,1344,Renewal Notice Received,5,2024-02-09
+511,1345,Renewal Notice Received,5,2024-08-29
+512,1346,Renewal Notice Received,4,2024-03-25
+513,1346,Renewal Notice Received,4,2024-03-25
+514,1347,Move-in,5,2024-06-21
+515,1348,Renewal Notice Received,4,2024-05-21
+516,1349,Maintenance Request,5,2024-08-08
+517,1349,Maintenance Request,4,2024-08-08
+518,1350,Maintenance Request,4,2024-05-01
+519,1351,Move-in,4,2025-05-06
+520,1351,Renewal Notice Received,4,2025-05-06
+521,1352,Maintenance Request,5,2024-12-13
+522,1352,Move-in,4,2024-12-13
+523,1353,Move-in,3,2024-04-10
+524,1353,Move-in,4,2024-04-10
+525,1354,Move-in,4,2024-06-13
+526,1354,Renewal Notice Received,5,2024-06-13
+527,1355,Maintenance Request,5,2024-06-24
+528,1356,Move-in,4,2025-06-29
+529,1357,Move-in,5,2024-05-29
+530,1358,Maintenance Request,5,2024-06-09
+531,1359,Maintenance Request,3,2024-09-11
+532,1359,Move-in,4,2024-09-11
+533,1360,Maintenance Request,4,2024-03-26
+534,1361,Renewal Notice Received,5,2024-06-16
+535,1361,Renewal Notice Received,5,2024-06-16
+536,1362,Maintenance Request,5,2024-07-07
+537,1362,Renewal Notice Received,5,2024-07-07
+538,1363,Renewal Notice Received,4,2024-02-12
+539,1364,Move-in,4,2024-08-20
+540,1365,Move-in,5,2024-05-16
+541,1365,Maintenance Request,4,2024-05-16
+542,1366,Maintenance Request,4,2024-07-15
+543,1366,Renewal Notice Received,4,2024-07-15
+544,1367,Maintenance Request,5,2024-01-06
+545,1368,Maintenance Request,5,2024-08-18
+546,1368,Renewal Notice Received,5,2024-08-18
+547,1369,Move-in,5,2024-02-28
+548,1370,Move-in,4,2024-06-21
+549,1370,Renewal Notice Received,5,2024-06-21
+550,1371,Renewal Notice Received,4,2024-10-13
+551,1371,Maintenance Request,5,2024-10-13
+552,1372,Move-in,5,2024-02-06
+553,1372,Maintenance Request,3,2024-02-06
+554,1373,Renewal Notice Received,2,2025-02-22
+555,1374,Move-in,4,2024-10-30
+556,1375,Renewal Notice Received,4,2024-06-07
+557,1376,Renewal Notice Received,2,2024-05-16
+558,1377,Renewal Notice Received,2,2025-06-02
+559,1378,Move-in,5,2024-12-14
+560,1378,Maintenance Request,5,2024-12-14
+561,1379,Move-in,5,2025-12-24
+562,1380,Move-in,4,2024-12-26
+563,1380,Renewal Notice Received,3,2024-12-26
+564,1381,Maintenance Request,5,2024-05-29
+565,1381,Renewal Notice Received,4,2024-05-29
+566,1382,Renewal Notice Received,5,2024-08-19
+567,1383,Renewal Notice Received,3,2024-02-08
+568,1384,Renewal Notice Received,5,2024-05-31
+569,1385,Renewal Notice Received,5,2024-09-15
+570,1385,Maintenance Request,4,2024-09-15
+571,1386,Move-in,4,2024-11-19
+572,1387,Move-in,4,2024-11-07
+573,1387,Maintenance Request,4,2024-11-07
+574,1388,Move-in,5,2024-12-08
+575,1388,Maintenance Request,3,2024-12-08
+576,1389,Maintenance Request,4,2024-08-27
+577,1389,Renewal Notice Received,5,2024-08-27
+578,1390,Renewal Notice Received,5,2024-10-18
+579,1390,Move-in,4,2024-10-18
+580,1391,Maintenance Request,3,2024-05-14
+581,1391,Move-in,5,2024-05-14
+582,1392,Maintenance Request,5,2024-03-14
+583,1392,Renewal Notice Received,4,2024-03-14
+584,1393,Move-in,3,2024-05-10
+585,1394,Renewal Notice Received,2,2025-05-16
+586,1394,Move-in,5,2025-05-16
+587,1395,Move-in,5,2024-09-23
+588,1395,Maintenance Request,4,2024-09-23
+589,1396,Renewal Notice Received,4,2024-10-16
+590,1397,Maintenance Request,4,2024-12-02
+591,1397,Maintenance Request,5,2024-12-02
+592,1398,Maintenance Request,5,2024-01-26
+593,1398,Maintenance Request,4,2024-01-26
+594,1399,Move-in,4,2024-01-26
+595,1400,Renewal Notice Received,4,2024-10-15
+596,1400,Move-in,5,2024-10-15
+597,1401,Renewal Notice Received,5,2024-11-30
+598,1402,Renewal Notice Received,4,2024-06-09
+599,1403,Renewal Notice Received,4,2024-05-31
+600,1403,Move-in,4,2024-05-31
+601,1404,Renewal Notice Received,5,2024-09-23
+602,1404,Maintenance Request,5,2024-09-23
+603,1405,Move-in,5,2024-09-10
+604,1405,Maintenance Request,5,2024-09-10
+605,1406,Move-in,5,2024-03-24
+606,1407,Maintenance Request,5,2024-07-09
+607,1407,Maintenance Request,5,2024-07-09
+608,1408,Move-in,5,2024-09-09
+609,1409,Move-in,4,2024-09-30
+610,1409,Renewal Notice Received,4,2024-09-30
+611,1410,Maintenance Request,3,2024-11-04
+612,1411,Move-in,5,2024-03-04
+613,1412,Move-in,5,2024-01-08
+614,1413,Move-in,5,2024-08-17
+615,1414,Maintenance Request,4,2025-08-28
+616,1415,Move-in,4,2024-03-03
+617,1416,Move-in,3,2024-05-29
+618,1417,Maintenance Request,4,2024-03-06
+619,1418,Renewal Notice Received,5,2024-08-01
+620,1419,Move-in,4,2024-06-13
+621,1419,Maintenance Request,5,2024-06-13
+622,1420,Move-in,5,2024-07-10
+623,1420,Renewal Notice Received,4,2024-07-10
+624,1421,Maintenance Request,5,2024-10-09
+625,1421,Move-in,3,2024-10-09
+626,1422,Maintenance Request,4,2025-10-25
+627,1423,Move-in,4,2024-08-20
+628,1424,Renewal Notice Received,2,2024-02-12
+629,1425,Move-in,5,2025-02-24
+630,1425,Maintenance Request,4,2025-02-24
+631,1426,Move-in,3,2024-01-18
+632,1426,Maintenance Request,4,2024-01-18
+633,1427,Renewal Notice Received,4,2025-01-23
+634,1427,Renewal Notice Received,2,2025-01-23
+635,1428,Renewal Notice Received,4,2024-02-18
+636,1429,Renewal Notice Received,5,2024-08-20
+637,1429,Move-in,4,2024-08-20
+638,1430,Renewal Notice Received,4,2024-09-21
+639,1431,Maintenance Request,5,2024-12-09
+640,1432,Renewal Notice Received,4,2024-03-28
+641,1432,Move-in,4,2024-03-28
+642,1433,Maintenance Request,4,2024-03-28
+643,1433,Maintenance Request,4,2024-03-28
+644,1434,Maintenance Request,5,2024-06-01
+645,1434,Maintenance Request,5,2024-06-01
+646,1435,Move-in,5,2024-11-10
+647,1435,Move-in,4,2024-11-10
+648,1436,Maintenance Request,4,2025-11-18
+649,1437,Renewal Notice Received,5,2024-07-30
+650,1438,Maintenance Request,5,2024-09-18
+651,1438,Move-in,5,2024-09-18
+652,1439,Maintenance Request,5,2024-11-16
+653,1439,Maintenance Request,4,2024-11-16
+654,1440,Maintenance Request,5,2024-08-08
+655,1440,Move-in,4,2024-08-08
+656,1441,Renewal Notice Received,5,2024-11-25
+657,1441,Maintenance Request,5,2024-11-25
+658,1442,Renewal Notice Received,5,2024-10-19
+659,1442,Move-in,5,2024-10-19
+660,1443,Move-in,4,2024-08-05
+661,1444,Move-in,5,2024-09-23
+662,1445,Renewal Notice Received,5,2024-09-15
+663,1445,Maintenance Request,5,2024-09-15
+664,1446,Move-in,5,2024-10-15
+665,1447,Renewal Notice Received,5,2024-09-28
+666,1447,Renewal Notice Received,4,2024-09-28
+667,1448,Maintenance Request,5,2024-06-02
+668,1448,Maintenance Request,3,2024-06-02
+669,1449,Renewal Notice Received,5,2024-04-24
+670,1449,Maintenance Request,5,2024-04-24
+671,1450,Renewal Notice Received,2,2024-06-21
+672,1451,Renewal Notice Received,1,2025-07-03
+673,1451,Move-in,4,2025-07-03
+674,1452,Renewal Notice Received,2,2024-05-02
+675,1453,Renewal Notice Received,2,2025-05-07
+676,1453,Renewal Notice Received,2,2025-05-07
+677,1454,Maintenance Request,5,2024-08-21
+678,1455,Move-in,4,2024-05-29
+679,1455,Maintenance Request,5,2024-05-29
+680,1456,Move-in,4,2025-06-16
+681,1456,Maintenance Request,4,2025-06-16
+682,1457,Renewal Notice Received,4,2024-08-26
+683,1458,Renewal Notice Received,2,2024-09-13
+684,1458,Renewal Notice Received,3,2024-09-13
+685,1459,Maintenance Request,4,2025-09-23
+686,1459,Move-in,4,2025-09-23
+687,1460,Move-in,5,2024-10-12
+688,1460,Renewal Notice Received,4,2024-10-12
+689,1461,Maintenance Request,5,2024-10-10
+690,1462,Renewal Notice Received,1,2025-10-29
+691,1463,Maintenance Request,3,2024-03-29
+692,1464,Maintenance Request,5,2024-07-08
+693,1464,Renewal Notice Received,5,2024-07-08
+694,1465,Maintenance Request,4,2024-01-20
+695,1465,Move-in,4,2024-01-20
+696,1466,Renewal Notice Received,5,2024-10-08
+697,1466,Move-in,5,2024-10-08
+698,1467,Move-in,3,2024-07-05
+699,1468,Renewal Notice Received,2,2024-01-04
+700,1469,Renewal Notice Received,1,2025-01-15
+701,1470,Maintenance Request,4,2024-08-12
+702,1470,Move-in,5,2024-08-12
+703,1471,Move-in,4,2024-01-11
+704,1471,Maintenance Request,5,2024-01-11
+705,1472,Renewal Notice Received,5,2024-03-07
+706,1472,Renewal Notice Received,5,2024-03-07
+707,1473,Renewal Notice Received,5,2024-03-27
