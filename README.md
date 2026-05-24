@@ -165,6 +165,39 @@ ORDER BY renewal_notice_survey_score DESC;
 * **Strategic Value:** Proves to stakeholders that a low survey score isn't just a sentiment metric—it's a leading financial indicator of impending vacancy loss and turn expenses.
 
 ---
+## 📊 Business Intelligence & Dashboard Deployment (Power BI)
 
-## 📈 Next Phase: Power BI Visualization
-With the data warehouse validated and key relational queries successfully modeled in BigQuery, the next phase of this project involves importing these models into **Power BI Desktop** to establish a clean Star Schema data model and map out interactive trend dashboards.
+The final phase of the project transitions raw warehouse insights into an interactive 3-page executive application using **Power BI Desktop**, structured as an optimized **Star Schema** with bidirectional filter propagation.
+
+### 📐 Core Multifamily DAX Engines
+To evaluate operational trends cleanly across varying calendar granularities without daily date dilution, the following custom DAX models were developed:
+
+* **Context-Aware Portfolio Occupancy:** Evaluates active baseline leasing volume relative to structural turnover by tracking total active resident metrics against physical asset constraints.
+* **Bidirectional Attrition Modeling:** Implements cross-filtering capabilities to allow sentiment analysis to filter upstream lease agreements.
+
+---
+
+### 🖥️ Dashboard Architecture & Visual Storytelling
+
+#### Page 1: Executive Property Overview
+* **Purpose:** High-level operational health checks for regional stakeholders.
+* **Core Visuals:** Unified KPI cards capturing stabilized performance targets, paired with an interactive unit-mix selector. 
+* **Data Narrative:** Visually surfaces how recurring collection shortfalls directly align with seasonal delinquency spikes.
+
+<img width="1914" height="1074" alt="image" src="https://github.com/user-attachments/assets/a35c6a9d-4715-49b9-a5ae-0bf368d91dd1" />
+
+
+#### Page 2: Financial Performance & Collections Deep-Dive
+* **Purpose:** An operational workspace for on-site Property Managers to mitigate cash leaks.
+* **Core Visuals:** An accounts receivable matrix embedded with conditional formatting, isolating localized unit-level balances.
+* **Data Narrative:** Highlights variance between Gross Potential Rent and true cash velocity, exposing exactly which units require penalty fee enforcement.
+
+<img width="1900" height="993" alt="image" src="https://github.com/user-attachments/assets/5527f881-a585-4127-869b-bf8dbbce7bef" />
+
+
+#### Page 3: Resident Experience & Attrition Correlation
+* **Purpose:** Strategic analysis proving the ROI of on-site property management operations.
+* **Core Visuals:** Cross-filtered bar charts mapping satisfaction scores across critical tenant milestones.
+* **Data Narrative:** **The Smoking Gun.** Statistically proves that low survey sentiment directly triggers physical lease terminations, translating customer friction into concrete vacancy losses.
+
+<img width="1885" height="1043" alt="image" src="https://github.com/user-attachments/assets/11f6a60f-2183-421e-bb41-01b34c317931" />
